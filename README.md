@@ -1,3 +1,5 @@
+k8s Cluster with Auto Scaling & Auto Healing for a Apache2 Web App
+
 # Following are the specifications of the lifecycle:
   1. Git workflow should be implemented. Since the company follows a monolithic architecture of development, you need to take care of version control.
   2. CodeBuild should be triggered once the commits are made in the master branch.
